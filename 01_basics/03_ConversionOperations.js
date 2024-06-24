@@ -26,3 +26,18 @@ console.log(booleanLoggedIn)
 let someNumber = 33
 let stringNumber = String(someNumber)
 console.log(typeof stringNumber)
+
+
+let value = 3
+let negValue = -value
+// console.log(negValue)
+// console.log(3+3);
+// console.log(3-3);
+// console.log(2**3);
+// console.log(2/3);
+// console.log(2%3);
+
+let str1 = "Diya"
+let str2 = " Shah"
+let str3 = str1 +str2
+console.log(str3);
