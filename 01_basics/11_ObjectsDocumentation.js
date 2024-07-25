@@ -80,8 +80,8 @@
 // console.log(A);                    //this is called deconstructing of objects.
 
 
-{
-    "name":"Diya",
-    "courseName":"JS",
-    "coursePrice":"999"
-}
+// {
+//     "name":"Diya",
+//     "courseName":"JS",
+//     "coursePrice":"999"
+// }
